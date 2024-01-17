@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Admin\eclipse-workspace\KienTrucPhanMem\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1053017455.index
+67418133.index
+409812214.index
+3237516029.index
+3321084044.index
+760108745.index
+4216506091.index

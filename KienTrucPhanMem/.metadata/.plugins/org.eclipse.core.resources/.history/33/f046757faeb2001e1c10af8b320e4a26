@@ -1,0 +1,5 @@
+package week.dao;
+
+public interface Product_DAO {
+
+}

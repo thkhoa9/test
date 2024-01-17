@@ -1,0 +1,5 @@
+package week.service;
+
+public interface Product_Service_Imp {
+
+}

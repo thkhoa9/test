@@ -1,0 +1,5 @@
+package week.entity;
+
+public class Product {
+
+}
